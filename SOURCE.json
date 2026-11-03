@@ -1,0 +1,33 @@
+{
+  "spreadsheet_row": 348,
+  "company": "Ателье (улица Мельникова, 3 к3)",
+  "brand_display": "Ателье",
+  "brand_caption": "Мельникова, 3 к3",
+  "address": "улица Мельникова, 3 к3",
+  "city": "Москва",
+  "phone": "+79036847461",
+  "email": null,
+  "email_evidence": "Подтверждённая публичная почта в проверенных контактах не найдена. Адрес не предполагается.",
+  "telegram": [],
+  "telegramurls": [],
+  "source_urls": [
+    "https://urbanplaces.su/ru_moskva/moskva/card-70000001101971231-atele",
+    "https://2gis.ru/moscow/firm/70000001101971231"
+  ],
+  "current_site": null,
+  "verified_on": "2026-11-03",
+  "notes": [
+    "В основной карточке 2GIS email и Telegram не опубликованы. Точные поиски по адресу/телефону не дали подтверждённой почты. Почтовый черновик возможен только без адресата до уточнения контакта."
+  ],
+  "phone_evidence": "Полный номер совпал в объекте contacts основной карточки 2GIS; рекламные и похожие организации в данные не включены.",
+  "phone_display": "+7 903 684-74-61",
+  "contacted": false,
+  "repository": "melnikova-atelier-design-demo",
+  "local_path": "/Users/artyombabayan/Downloads/victory/demos/melnikova-atelier-design-demo",
+  "public_url": "https://tema-git.github.io/melnikova-atelier-design-demo/",
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "120ee7b5860450296011f1886aa4121c661d2f9e",
+  "prepared_on": "2026-11-03",
+  "demo_only": true,
+  "data_submission": false
+}
